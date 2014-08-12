@@ -1,0 +1,3 @@
+[submodule "src/main/java/com/sydiw/mclib"]
+	path = src/main/java/com/sydiw/mclib
+	url = git@github.com:sydiw/mclib
